@@ -17,5 +17,8 @@ def main():
     print("Time: 120 seconds = ", seconds_to_minutes(120), "minutes")
     print("Data: 2048 bytes = ", bytes_to_kilobytes(2048), "kilobytes")
 
+    print("Harun was here")
+    print("Harun was here again")
+
 if __name__ == "__main__":
     main()
